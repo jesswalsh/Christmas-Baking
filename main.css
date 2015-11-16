@@ -1,0 +1,15 @@
+h1 {
+	font-family: 'Calibri';
+	font-size: 60px;
+	color: green;
+	background-color: white;
+}
+h2 {
+	font-family: 'Calibri';
+	font-size: 40px;
+}
+h3 {
+	font-family: 'Calibri';
+	font-size: 30px;
+	color: red;
+}
