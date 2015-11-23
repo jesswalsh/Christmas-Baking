@@ -1,8 +1,9 @@
 h1 {
 	font-family: 'Calibri';
-	font-size: 60px;
+	font-size: 80px;
 	color: green;
 	background-color: white;
+	text-align: center;
 }
 h2 {
 	font-family: 'Calibri';
@@ -12,4 +13,24 @@ h3 {
 	font-family: 'Calibri';
 	font-size: 30px;
 	color: red;
+}
+p {
+	font-family: 'Papyrus';
+	font-size: 20px;
+}
+ul {
+	font-family: 'Cambria';
+	color: navy blue;
+	font-size: 20px; 
+}
+ol {
+	font-family: 'Cambria';
+	color: navy blue;
+	font-size: 20px;
+}
+div {
+	font-size: 30px;
+}
+article {
+	max-width: 1500px;
 }
