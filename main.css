@@ -1,8 +1,9 @@
 h1 {
 	font-family: 'Calibri';
-	font-size: 60px;
+	font-size: 80px;
 	color: green;
 	background-color: white;
+	text-align: center;
 }
 h2 {
 	font-family: 'Calibri';
@@ -13,18 +14,23 @@ h3 {
 	font-size: 30px;
 	color: red;
 }
-#social-buttons​button{
-color​:​white;
+p {
+	font-family: 'Papyrus';
+	font-size: 20px;
 }
-.​btn​-​twitter​{
-background​-​color​:​#00acee;
-border​-​color​:​#009ad5;
+ul {
+	font-family: 'Cambria';
+	color: navy blue;
+	font-size: 20px; 
 }
-.​btn​-​facebook​{
-background​-​color​:​#4868ac;
-border​-​color​:​#314776;
+ol {
+	font-family: 'Cambria';
+	color: navy blue;
+	font-size: 20px;
 }
-.​btn​-​pinterest​{
-background​-​color​:​#b62f26;
-border​-​color​:​#b62f26;
+div {
+	font-size: 30px;
+}
+article {
+	max-width: 1500px;
 }
