@@ -1,8 +1,15 @@
 h1 {
 	font-family: 'Calibri';
-	font-size: 80px;
 	color: green;
 	background-color: white;
+	text-align: center;
+    font-size: 60px;
+    margin: 0 auto;
+    padding:0 15px 0 15px;   
+  	display:inline-block;
+  	border-radius:15px
+}
+#header {
 	text-align: center;
 }
 h2 {
@@ -15,8 +22,12 @@ h3 {
 	color: red;
 }
 p {
-	font-family: 'Papyrus';
+	font-family: 'Calibri';
 	font-size: 20px;
+    margin: 0 auto;
+    padding:0 15px 0 15px;   
+  	display:inline-block;
+  	border-radius:15px
 }
 ul {
 	font-family: 'Cambria';
@@ -34,8 +45,15 @@ div {
 article {
 	max-width: 1500px;
 }
-
 .btn-facebook {
 	background​-​color​:​ #blue;
 	border​-​color​:​#314776;
 }
+#social-buttons {
+	background-color: white;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+}
+
